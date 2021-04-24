@@ -1,4 +1,3 @@
-<p background="#534333">
 # Tim-Midun
 ### KRSBI - Humanoid PNP
 <p align="center">
@@ -23,4 +22,3 @@
  
 
 <br/><br/>
-</p>
