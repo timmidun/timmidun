@@ -1,7 +1,8 @@
 # Tim-Midun
 ### KRSBI - Humanoid PNP
-
+<p align="center">
 <img src="Logo Midun.png" tittle="midun"/>
+ </p>
 
 <p align="center"><a href="https://github.com/timmidun"><img title="Tim Midun" src="https://github-readme-stats.vercel.app/api?username=timmidun&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
