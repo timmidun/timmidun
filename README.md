@@ -13,4 +13,9 @@
 <code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
 
 <br/><br/>
+
+<p align="center">
+<a href="https://github.com/timmidun/Midun-2021"><img title="Midun 2021" src="https://github-readme-stats.vercel.app/api/pin/?username=timmidun&repo=Midun-2021&theme=radical"></a>
+<a href="https://github.com/timmidun/tim-midun"><img title="Tim Midun" src="https://github-readme-stats.vercel.app/api/pin/?username=timmidun&repo=tim-midun&theme=highcontrast"></a>
+</p>
 </p>
