@@ -1,5 +1,5 @@
-<p background="#534GS">
- # Tim-Midun
+<p background="#534333">
+# Tim-Midun
 ### KRSBI - Humanoid PNP
 <p align="center">
 <img src="Logo Midun.png" tittle="midun"/>
