@@ -1,5 +1,5 @@
 # Tim-Midun
-<marquee>### KRSBI - Humanoid PNP</marquee>
+### KRSBI - Humanoid PNP
 
 <img src="Logo Midun.png" tittle="midun"/>
 
